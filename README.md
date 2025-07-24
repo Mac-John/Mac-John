@@ -35,7 +35,7 @@ Here are some of the real-world projects I've worked on:
 ## 🌐 Connect With Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/macjohnsindioapaun)
-- 💼 [![🌐 Visit My Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-%20Website-blueviolet?style=for-the-badge&logo=github)](https://mac-john.github.io/)
+- [![🌐 Visit My Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-%20Website-blueviolet?style=for-the-badge&logo=github)](https://mac-john.github.io/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sindioapaunmacjohn@gmail.com)
 
 ---
