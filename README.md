@@ -15,7 +15,7 @@ Here are some of the real-world projects I've worked on:
 | Project | Description | Tools |
 |--------|-------------|----------|
 | 🛒 **Sales Analysis (ShopEase) [![🔍 View Full Project on GitHub](https://img.shields.io/badge/View_Project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Mac-John/sales_data_analysis)** | Analyzed Jan–Jun 2024 sales, cleaned data, and built insights | Excel |
-| 📈 **General Cleaning & Insight Generation** | Cleaned, Explored, Analyzed and Visualized a daatset | Excel, SQL, Power-BI |
+| 📈 **General Cleaning & Insight Generation [![🧹 View Cleaning & Insight Project](https://img.shields.io/badge/Data_Cleaning_&_Insight_SQL+PowerBI-Click_Here-blue?style=for-the-badge&logo=github)](https://github.com/Mac-John/sales-insight-sql-powerbi)** | Cleaned, Explored, Analyzed and Visualized a daatset | Excel, SQL, Power-BI |
 | 📈 **Predictive Modeling** | Built forecast model using Python | Python |
 | 👥 **Customer Segmentation** | Used clustering to group customers for marketing | Python |
 
