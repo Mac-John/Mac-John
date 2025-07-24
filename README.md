@@ -14,7 +14,8 @@ Here are some of the real-world projects I've worked on:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🛒 **Sales Analysis (ShopEase)** | Analyzed Jan–Jun 2024 sales, cleaned data, and built insights | Excel, Power BI |
+| 🛒 **Sales Analysis (ShopEase)
+https://github.com/Mac-John/sales_data_analysis** | Analyzed Jan–Jun 2024 sales, cleaned data, and built insights | Excel, Power BI |
 | 📈 **Predictive Modeling** | Built forecast model using Google AutoML | Python |
 | 👥 **Customer Segmentation** | Used clustering to group customers for marketing | Python |
 | 📊 **Retail Dashboard** | Interactive dashboard to track product performance | Power BI |
